@@ -1,0 +1,62 @@
+RTM3D: Real-time Monocular 3D Detection from Object Keypoints for Autonomous Driving
+Code: https://github.com/maudzung/RTM3D
+Robust Re-Identification by Multiple Views Knowledge Distillation
+Code: https://github.com/aimagelab/VKD
+MichiGAN: Multi-Input-Conditioned Hair Image Generation for Portrait Editing
+Code: https://github.com/tzt101/MichiGAN
+TextRay: Contour-based Geometric Modeling for Arbitrary-shaped Scene Text Detection
+Code: https://github.com/LianaWang/TextRay
+Multi-band MelGAN: Faster Waveform Generation for High-Quality Text-to-Speech
+Code: https://github.com/rishikksh20/melgan
+Resolution Switchable Networks for Runtime Efficient Image Recognition
+Code: https://github.com/yikaiw/RS-Nets
+Infrastructure-based Multi-Camera Calibration using Radial Projections
+Code: https://github.com/youkely/InfrasCal
+Learning Stereo from Single Images
+Code: https://github.com/nianticlabs/stereo-from-mono/
+Tracking Emerges by Looking Around Static Scenes, with Neural 3D Mapping
+Code: https://github.com/aharley/neural_3d_tracking
+Rethinking Image Deraining via Rain Streaks and Vapors
+Code: https://github.com/yluestc/derain
+From Design Draft to Real Attire: Unaligned Fashion Image Translation
+Code: https://victoriahy.github.io/MM2020
+Domain-Specific Mappings for Generative Adversarial Style Transfer
+Code: https://acht7111020.github.io/DSMAP-demo
+Memory-augmented Dense Predictive Coding for Video Representation Learning
+Code: https://github.com/TengdaHan/MemDPC
+DTVNet: Dynamic Time-lapse Video Generation via Single Still Image
+Code: https://github.com/zhangzjn/DTVNet
+CLEVRER: Collision Events for Video Representation and Reasoning
+Code: https://github.com/chuangg/CLEVRER
+PFENet: Prior Guided Feature Enrichment Network for Few-shot Segmentation
+Code: https://github.com/Jia-Research-Lab/PFENet
+PraNet: Parallel Reverse Attention Network for Polyp Segmentation
+Code: https://github.com/DengPingFan/PraNet
+DXSLAM: A Robust and Efficient Visual SLAM System with Deep Features
+Code: https://github.com/ivipsourcecode/dxslam
+Multi-branch and Multi-scale Attention Learning for Fine-Grained Visual Categorization (MMAL-Net)
+Code: https://github.com/ZF1044404254/MMAL-Net
+IoU-aware single-stage object detector for accurate localization
+Code: https://github.com/ShengkaiWu/IoU-aware-single-stage-object-detector
+Structure-Guided Ranking Loss for Single Image Depth Prediction
+Code: https://github.com/KexianHust/Structure-Guided-Ranking-Loss
+Polarized Reflection Removal with Perfect Alignment in the Wild
+Code: https://github.com/ChenyangLEI/CVPR2020-Polarized-Reflection-Removal-with-Perfect-Alignment
+DSFD: Dual Shot Face Detector
+Code: https://github.com/Tencent/FaceDetection-DSFD
+HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures
+Code: https://github.com/zhou13/holicity
+Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+Code: https://github.com/IBM/MAX-Image-Resolution-Enhancer
+Axial-DeepLab: Stand-Alone Axial-Attention for Panoptic Segmentation
+Code: https://github.com/csrhddlam/axial-deeplab
+Deep Connected Attention Networks (DCANet)
+Code: https://github.com/13952522076/DCANet
+VocGAN: A High-Fidelity Real-time Vocoder with a Hierarchically-nested Adversarial Network
+Code: https://github.com/rishikksh20/VocGAN
+Axiom-based Grad-CAM: Towards Accurate Visualization and Explanation of CNNs
+Code: https://github.com/Fu0511/XGrad-CAM
+NormalGAN: Learning Detailed 3D Human from a Single RGB-D Image
+Code: https://github.com/LizhenWangT/NormalGAN
+A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images
+Code: https://github.com/tangjiapeng/SkeletonBridgeRecon
